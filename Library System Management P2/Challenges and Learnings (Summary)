@@ -1,1 +1,11 @@
-What i learned in while building this project
+In this project, I learned a lot of new things. For example, I had only studied stored procedures in theory before, never tried them. I had read some code queries and taken notes, but in this project, I got to both understand and actually practice stored procedures properly.
+
+After that, I solved two tasks that come under advanced queries. I did take help from ChatGPT, but only to understand how to do them—the rest I did myself. I spent a lot of time on this project, more than I expected, mostly because of procrastination and my own laziness. I hadn’t paid much attention earlier, but better late than never—I finally completed it.
+
+I faced some difficulties too, like getting confused again and again about which column to select, which column to join, and which table to use. I couldn’t figure out the logic at first, which was really frustrating. Then, when I opened my laptop, it restarted after a while and all my work was lost. I had to redo the tasks, but this time it went faster because I had already spent time understanding them. I also spent quite a bit of time planning how to do it.
+
+I learned a lot in the process, such as:
+
+1. Stored procedures
+2. GREATEST function, and using CURRENT and INTERVAL
+3. LEFT JOIN, INNER JOIN, COUNT, and many other things
