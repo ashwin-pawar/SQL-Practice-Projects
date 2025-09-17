@@ -4,8 +4,7 @@ After that, I solved two tasks that come under advanced queries. I did take help
 
 I faced some difficulties too, like getting confused again and again about which column to select, which column to join, and which table to use. I couldn’t figure out the logic at first, which was really frustrating. Then, when I opened my laptop, it restarted after a while and all my work was lost. I had to redo the tasks, but this time it went faster because I had already spent time understanding them. I also spent quite a bit of time planning how to do it.
 
-I learned a lot in the process, such as:
-
+I learned a lot in the process, such as-
 1. Stored procedures
 2. GREATEST function, and using CURRENT and INTERVAL
 3. LEFT JOIN, INNER JOIN, COUNT, and many other things
