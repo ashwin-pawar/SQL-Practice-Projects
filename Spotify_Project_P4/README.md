@@ -1,7 +1,7 @@
 # Spotify Advanced SQL Project and Query Optimization P-6
 Project Category: Advanced
 
-![Spotify Logo](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_logo.jpg)
+![Spotify Logo](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/spotify_logo.jpg)
 
 ## Overview
 This project involves analyzing a Spotify dataset with various attributes about tracks, albums, and artists using **SQL**. It covers an end-to-end process of normalizing a denormalized dataset, performing SQL queries of varying complexity (easy, medium, and advanced), and optimizing query performance. The primary goals of the project are to practice advanced SQL skills and generate valuable insights from the dataset.
@@ -273,14 +273,14 @@ To improve query performance, we carried out the following optimization process:
         - Execution time (E.T.): **0.153 ms**
         - Planning time (P.T.): **0.152 ms**
     - Below is the **screenshot** of the `EXPLAIN` result after index creation:
-      ![EXPLAIN After Index](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_explain_after_index.png)
+      ![EXPLAIN After Index](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/After%20%20Query%20Optimization.png)
 
 - **Graphical Performance Comparison**
     - A graph illustrating the comparison between the initial query execution time and the optimized query execution time after index creation.
     - **Graph view** shows the significant drop in both execution and planning times:
-      ![Performance Graph](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_graphical%20view%203.png)
-      ![Performance Graph](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_graphical%20view%202.png)
-      ![Performance Graph](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_graphical%20view%201.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Screenshot%202025-10-01%20120227.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/before.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Screenshot%202025-10-01%20120055.png)
 
 This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
 ---
