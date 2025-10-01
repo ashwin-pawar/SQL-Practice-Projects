@@ -259,7 +259,7 @@ To improve query performance, we carried out the following optimization process:
         - Execution time (E.T.): **5.7 ms**
         - Planning time (P.T.): **0.70 ms**
     - Below is the **screenshot** of the `EXPLAIN` result before optimization:
-      ![EXPLAIN Before Index](https://github.com/najirh/najirh-Spotify-Data-Analysis-using-SQL/blob/main/spotify_explain_before_index.png)
+      ![EXPLAIN Before Index](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Before%20Query%20Optimization.png)
 
 - **Index Creation on the `artist` Column**
     - To optimize the query performance, we created an index on the `artist` column. This ensures faster retrieval of rows where the artist is queried.
@@ -278,9 +278,9 @@ To improve query performance, we carried out the following optimization process:
 - **Graphical Performance Comparison**
     - A graph illustrating the comparison between the initial query execution time and the optimized query execution time after index creation.
     - **Graph view** shows the significant drop in both execution and planning times:
-      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Screenshot%202025-10-01%20120227.png)
-      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/before.png)
-      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Screenshot%202025-10-01%20120055.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Graphicl%20Picture%201.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Graphicl%20Picture%202.png)
+      ![Performance Graph](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/Graphicl%20Picture%203.png)
 
 This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
 ---
