@@ -1,5 +1,5 @@
-# Spotify Advanced SQL Project and Query Optimization P-6
-Project Category: Advanced
+# Spotify Advanced SQL Project and Query Optimization P4
+
 
 ![Spotify Logo](https://github.com/ashwin-pawar/SQL-Practice-Projects/blob/main/Spotify_Project_P4/spotify_logo.jpg)
 
